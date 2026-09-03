@@ -1,6 +1,7 @@
+.venv/
 __pycache__/
 *.py[cod]
-.venv/
-venv/
-figures_task1/
+.pytest_cache/
+build/
+figures/
 .DS_Store
